@@ -1,1 +1,3 @@
 # bitcoinjs-loan
+
+Work in progress...
